@@ -1,1 +1,1 @@
-# simplecalculator written in python using simple if else conditions 
+# simple calculator code in python using simple if else conditions 
